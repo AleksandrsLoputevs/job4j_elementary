@@ -2,6 +2,8 @@ package ru.job4j.condition;
 
 public class Greeting {
     public static void main(String[] args) {
+        String mama = "papa moet zopu";
+        System.out.println("mama");
         String papa = "mama moet ramu";
         System.out.println("papa");
         String name ="Danja moj syn, emu";
