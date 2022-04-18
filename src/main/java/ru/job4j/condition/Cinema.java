@@ -5,8 +5,12 @@ public class Cinema {
         System.out.println("The age of the customer is : " + age);
         if (age == 21) {
             System.out.println("Welcome to the cinema.");
-        } else {
+        } else if (age == 16) {
+
+
             System.out.println("It is not for you.");
+
+
         }
     }
 
