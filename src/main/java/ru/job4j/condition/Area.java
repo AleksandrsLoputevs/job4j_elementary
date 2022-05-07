@@ -2,7 +2,7 @@ package ru.job4j.condition;
 
 public class Area {
     public static double square(double height, double width) {
-    double rsl = (height * width);
+    double rsl =     (height * width);
     return rsl;
 }
 
